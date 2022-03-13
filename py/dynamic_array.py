@@ -1,4 +1,4 @@
-# RUN: python dsa/py/dynamic_array.py
+# RUN: python py/dynamic_array.py
 
 """
 Dynamic Array

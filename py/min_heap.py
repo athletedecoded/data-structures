@@ -1,4 +1,4 @@
-# RUN: python dsa/py/min_heap.py
+# RUN: python py/min_heap.py
 
 """
 Min Heap and Heap Sort implementation from scratch

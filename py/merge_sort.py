@@ -1,4 +1,4 @@
-# RUN: python dsa/py/merge_sort.py
+# RUN: python py/merge_sort.py
 
 """
 Merge Sort algorithm

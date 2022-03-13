@@ -1,5 +1,5 @@
 
-# RUN: python dsa/py/apsp.py
+# RUN: python py/apsp.py
 
 """
 Johnson's Algorithm for Negative Weighted Graph 

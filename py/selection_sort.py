@@ -1,4 +1,4 @@
-# RUN: python dsa/py/selection_sort.py
+# RUN: python py/selection_sort.py
 
 """
 Selection Sort algorithm

@@ -1,4 +1,4 @@
-# RUN: python dsa/py/radix_sort.py
+# RUN: python py/radix_sort.py
 
 """
 Radix Sort algorithm

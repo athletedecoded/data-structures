@@ -1,5 +1,5 @@
 
-# RUN: python dsa/py/dijkstra.py
+# RUN: python py/dijkstra.py
 
 """
 Dijkstra's Algorithm for Non-Negative Weighted Graph using

@@ -1,4 +1,4 @@
-# RUN: python dsa/py/avl.py
+# RUN: python py/avl.py
 
 """
 AVL Tree implementation

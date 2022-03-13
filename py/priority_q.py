@@ -1,4 +1,4 @@
-# RUN: python dsa/py/priority_q.py
+# RUN: python py/priority_q.py
 
 """
 Priority Queue implementation

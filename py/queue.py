@@ -1,5 +1,5 @@
 
-# RUN: python dsa/py/queue.py
+# RUN: python py/queue.py
 
 """
 Queue implementation

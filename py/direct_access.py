@@ -1,4 +1,4 @@
-# RUN: python dsa/py/direct_access.py
+# RUN: python py/direct_access.py
 
 """
 Direct Access Array built on Python list

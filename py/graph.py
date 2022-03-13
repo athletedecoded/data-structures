@@ -1,4 +1,4 @@
-# RUN: python dsa/py/graph.py
+# RUN: python py/graph.py
 
 """
 Unweighted Graph Implementation for directed or undirected graphs

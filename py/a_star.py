@@ -1,5 +1,5 @@
 
-# RUN: python dsa/py/a_star.py
+# RUN: python py/a_star.py
 
 """
 A* Search Algorithm for Non-Negative Weighted Graph

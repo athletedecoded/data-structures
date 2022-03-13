@@ -1,4 +1,4 @@
-# RUN: python dsa/py/max_heap.py
+# RUN: python py/max_heap.py
 
 """
 Max Heap and Heap Sort implementation from scratch

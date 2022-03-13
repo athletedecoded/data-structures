@@ -1,4 +1,4 @@
-# RUN: python dsa/py/binary_search.py
+# RUN: python py/binary_search.py
 
 """
 Array Based Binary Search Algorithm

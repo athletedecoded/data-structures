@@ -1,4 +1,4 @@
-# RUN: python dsa/py/insertion_sort.py
+# RUN: python py/insertion_sort.py
 
 """
 Insertion Sort algorithm

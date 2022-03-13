@@ -1,4 +1,4 @@
-# RUN: python dsa/py/dp.py
+# RUN: python py/dp.py
 
 """
 Dynamic Programming Examples

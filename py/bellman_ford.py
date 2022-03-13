@@ -1,5 +1,5 @@
 
-# RUN: python dsa/py/bellman_ford.py
+# RUN: python py/bellman_ford.py
 
 """
 Bellman-Ford Algorithm for Negative Weighted Graph 

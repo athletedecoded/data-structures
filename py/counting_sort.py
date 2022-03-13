@@ -1,4 +1,4 @@
-# RUN: python dsa/py/counting_sort.py
+# RUN: python py/counting_sort.py
 
 """
 Counting Sort algorithm

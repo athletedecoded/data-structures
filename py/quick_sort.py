@@ -1,4 +1,4 @@
-# RUN: python dsa/py/quick_sort.py
+# RUN: python py/quick_sort.py
 
 """
 Quick Sort Algorithm

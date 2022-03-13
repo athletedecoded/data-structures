@@ -1,4 +1,4 @@
-# RUN: python dsa/py/doubly_linked.py
+# RUN: python py/doubly_linked.py
 
 """
 Doubly linked list with HEAD and TAIL pointers

@@ -1,4 +1,4 @@
-# RUN: python dsa/py/hash_table.py
+# RUN: python py/hash_table.py
 
 """
 Hash Table

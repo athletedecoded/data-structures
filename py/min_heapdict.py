@@ -1,4 +1,4 @@
-# RUN: python dsa/py/min_heapdict.py
+# RUN: python py/min_heapdict.py
 
 """
 Min Heap Dictionary implementation from scratch

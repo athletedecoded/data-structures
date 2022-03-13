@@ -1,4 +1,4 @@
-# RUN: python dsa/py/stack.py
+# RUN: python py/stack.py
 
 """
 Stack implementations

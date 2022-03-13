@@ -1,4 +1,4 @@
-# RUN: python dsa/py/dag.py
+# RUN: python py/dag.py
 
 """
 Directed Acyclic Graph Implementation & DAG Relaxation

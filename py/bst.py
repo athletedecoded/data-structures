@@ -1,4 +1,4 @@
-# RUN: python dsa/py/bst.py
+# RUN: python py/bst.py
 
 """
 Binary Search Tree implementation

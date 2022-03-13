@@ -1,4 +1,4 @@
-# RUN: python dsa/py/bubble_sort.py
+# RUN: python py/bubble_sort.py
 
 """
 Bubble Sort Algorithm
